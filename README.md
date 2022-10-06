@@ -7,7 +7,7 @@ main.py是有gui版本的主程序脚本，直接运行Functions.py就是命令�
 
 首先注册[芝麻代理](https://www.zmhttp.com)，进行实名认证。
 
-然后打开软件，点击“链接IP池”，根据提示将当前设备IP地址添加到芝麻代理白名单中；
+然后打开软件，点击“链接IP池”，根据提示将当前设备IP地址添加到芝麻代理白名单中，然后去领取每日白嫖套餐；
 
 ![](https://s2.loli.net/2022/10/06/CDdExFAYgRaql2e.gif)
 
